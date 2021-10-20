@@ -4,9 +4,9 @@
 [![](https://img.shields.io/badge/Video-%E6%BC%94%E7%A4%BA-yellow)](https://www.bilibili.com/video/BV1Yq4y1V758/)
 [![](https://img.shields.io/badge/author-GXW-green)]()
 
-## 详细代码及论文请联系VX：bywy124
+## 详细代码及论文请联系q:844970924
 <figure class="half">
-    <img src="https://img-blog.csdnimg.cn/e69449c24a074d8bb74574c7b6d56bed.jpg" width="20%" >
+    <img src="https://img-blog.csdnimg.cn/dcd87cc31eba4c259f2b058d313007f4.jpg" width="20%" >
 </figure>
 
 ## 系统介绍
